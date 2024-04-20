@@ -1,3 +1,4 @@
 # HangMan
 
-Hangman is a simple game for ESL students that helps practice English vocabulary spelling. And this is my version of it, written on python
+Hangman is a simple game for ESL students that helps them practice English vocabulary and spelling. 
+This is my version of it, written in Python
